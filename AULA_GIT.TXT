@@ -1,3 +1,0 @@
-frase escrita na primeira branch
-frase escrita na primeira na nova branch
-terceira linha do projeto apos a criaçao do repositorio remoto....

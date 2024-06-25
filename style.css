@@ -1,0 +1,12 @@
+ul{
+    
+    display: flex;/*comando para colocar ul na horizontal*/
+    background-color: gray;/*comando para colocar cor no fundo do ul*/
+    
+}
+li{
+    list-style-type: none;   
+    font-size: 20px;/*Tamanho da fonte*/
+    width: 10%;
+    margin: 20px;
+}
